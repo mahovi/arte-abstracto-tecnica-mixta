@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mahovi.github.io/arte-abstracto-tecnica-mixta/sitemap.xml
